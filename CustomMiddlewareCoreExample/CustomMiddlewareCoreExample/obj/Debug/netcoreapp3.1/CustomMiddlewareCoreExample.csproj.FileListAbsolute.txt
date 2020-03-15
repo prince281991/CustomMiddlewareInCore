@@ -1,0 +1,9 @@
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\obj\Debug\netcoreapp3.1\CustomMiddlewareCoreExample.csprojAssemblyReference.cache
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\obj\Debug\netcoreapp3.1\staticwebassets\CustomMiddlewareCoreExample.StaticWebAssets.Manifest.cache
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\obj\Debug\netcoreapp3.1\staticwebassets\CustomMiddlewareCoreExample.StaticWebAssets.xml
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\obj\Debug\netcoreapp3.1\CustomMiddlewareCoreExample.AssemblyInfoInputs.cache
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\obj\Debug\netcoreapp3.1\CustomMiddlewareCoreExample.AssemblyInfo.cs
+C:\Users\DEVIL'S\source\repos\prince281991\CustomMiddlewareInCore\CustomMiddlewareCoreExample\CustomMiddlewareCoreExample\obj\Debug\netcoreapp3.1\CustomMiddlewareCoreExample.RazorTargetAssemblyInfo.cache
